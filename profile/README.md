@@ -5,10 +5,20 @@ Der bliver her kigget på hvordan et IoT device kan bruges i sådan en position.
 
 Der er blevet fordelt 3 til 4 gruppe medlemmer ud på 3 teams.
 
-## Github aftaler
+# Github aftaler
 
-### Branching
+## Branching
 
-### Merging
+## Merging
 
-### Committing
+## Committing
+
+## Issues
+
+### globale issues
+
+- user stories
+
+### lokale issues
+
+- arbejds opgaver relevant til de userstories
