@@ -41,7 +41,7 @@ Hotfix   Development
 
 5. Content: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist.
 
-Disse blev fundet fra dette link: 
+Disse blev fundet fra dette link: https://www.freecodecamp.org/news/how-to-write-better-git-commit-messages/
 
 ## Issues / Kanban cards / Arbejdsopgaver
 
