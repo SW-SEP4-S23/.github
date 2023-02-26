@@ -13,19 +13,21 @@ Der er blevet fordelt 3 til 4 gruppe medlemmer ud på 3 teams.
      /    \
    |/_    _\|
 Hotfix   Development
-             |
-            \|/
-          Feature
+            |
+           \|/
+         Feature
+            |
+           \|/
+   Personlige branches
 ```
 ## Merging
 
 - Man laver pull requests og man committer aldrig direkte til main.
 - Minimum én anden skal have lavet et review før man merger.
 - Hvis et review ikke bliver godkendt, så er det op til den person som efterspurgte review at opdatere deres kode.
+- Man opretter ikke en pull request hvis man ikke er helt færdig med sin opgave.
 
 ## Committing
-
-
 
 1. Capitalization and Punctuation: Capitalize the first word and do not end in punctuation. If using Conventional Commits, remember to use all lowercase.
 
@@ -39,14 +41,11 @@ Hotfix   Development
 
 5. Content: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist.
 
-## Issues
+Disse blev fundet fra dette link: 
 
+## Issues / Kanban cards / Arbejdsopgaver
 
-
-### globale issues
-
-- user stories
-
-### lokale issues
-
-- arbejds opgaver relevant til de userstories
+- Userstories bliver arbejdsopgaver for sig selv.
+- Den sidste der forlader en userstory har ansvar for at sætte den som done.
+- Man tildeler sig selv den userstory man er på. (Muligvis laver teams?)
+- Der bliver lavet issues ud fra userstories.
