@@ -8,17 +8,13 @@ Der er blevet fordelt 3 til 4 gruppe medlemmer ud på 3 teams.
 # Github aftaler
 
 ## Branching
-```
-      main
-     /    \
-   |/_    _\|
-Hotfix   Development
-            |
-           \|/
-         Feature
-            |
-           \|/
-   Personlige branches
+
+```mermaid
+graph TD;
+    main-->dev;
+    main-->hotfix;
+    dev-->feature;
+    feature-->personlig-branch;
 ```
 ## Merging
 
