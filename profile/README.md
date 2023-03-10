@@ -10,7 +10,7 @@ Der er blevet fordelt 3 til 4 gruppe medlemmer ud på 3 teams.
 ## Branching
 
 ```mermaid
-graph TD;
+graph LR;
     main-->dev;
     main-->hotfix;
     dev-->feature;
