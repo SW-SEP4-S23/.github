@@ -20,7 +20,7 @@ graph LR;
 ```mermaid
 gitGraph
     commit id: "initial commit" tag: "v0.0"
-    commit id: "Create base software" tag: "v0.1"
+    commit id: "Create base software"
     branch dev
     checkout dev
     branch feature
