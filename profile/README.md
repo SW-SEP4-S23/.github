@@ -16,6 +16,24 @@ graph LR;
     dev-->feature;
     feature-->personlig-branch;
 ```
+**Eksempel:**
+```mermaid
+gitGraph
+    commit id: "initial commit" tag: "v0.0"
+    commit id: "Create base software" tag: "v0.1"
+    branch dev
+    checkout dev
+    branch feature
+    checkout feature
+    commit id: "add feature" tag: "v0.1"
+    checkout dev
+    merge feature
+    commit id: "test"
+    commit id: "test2"
+    checkout main
+    merge dev
+    commit id: "version update" tag: "v1.0"
+```
 ## Merging
 
 - Man laver pull requests og man committer aldrig direkte til main.
